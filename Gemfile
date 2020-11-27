@@ -15,7 +15,7 @@ gem "github-pages", group: :jekyll_plugins
 # To upgrade, run `bundle update`.
 bundle update
 
-gem "jekyll"
+gem "jekyll", "~> 3.8.3"
 
 gem 'minimal-mistakes-jekyll', '~> 4.16.3'
 
