@@ -11,30 +11,44 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics with Math emphasis and Data Science, University of Wisconsin-Madison, 2022 (Expected)
+* GPA: 3.82
+* Academic Honors: Dean’s list*2 (Spring 2018-2019, Spring 2019-2020)
+* Extracurricular: Data Science Club
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Research and Data Analysis Extern
+  * UW-Madison Department of Economics
+  * Duties included: 
+        * Completed online training + collaborated with mentor
+        * Performed web scraping & Created data visualization with Python and Excel
+        * Presented on findings of Covid’s impact on consumer & retail trends in NYC
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Research Extern
+  * Ernst and Young 
+  * Duties included: Due Diligence (literature review, data collection)
+  
+* Fall 2018
+  * University Dining Hall (Gordon)
+  * market-oriended team member
+  * Duties included: served customers or made food
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * NumPy
+  * Pandas
+  * Scikit-Learn
+  * ...
+* R
+* SQL (SQLite,MySQL)
+* Stata
+* html
+* LaTex
+* Maching Learning
+* Adobe Ps/Pr
+* Microsoft(Excel,Word,PowerPoint)
 
 Publications
 ======
@@ -42,18 +56,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Past
+  * Greater University Tutoring Service
+  * Supporting Peers in Laidback Listening
