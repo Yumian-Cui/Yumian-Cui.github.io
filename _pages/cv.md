@@ -46,12 +46,6 @@ Skills
 * Maching Learning
 * Adobe Ps/Pr
 * Microsoft(Excel,Word,PowerPoint)
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
