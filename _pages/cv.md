@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Economics with Math emphasis and Data Science, University of Wisconsin-Madison, 2022 (Expected)
+* B.S. in Econ and DS, University of Wisconsin-Madison, 2022 (Expected)
 * GPA: 3.82
 * Academic Honors: Dean’s list*2 (Spring 2018-2019, Spring 2019-2020)
 * Extracurricular: Data Science Club
