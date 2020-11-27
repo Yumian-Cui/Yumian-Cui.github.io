@@ -20,10 +20,7 @@ Experience
 ======
 * Summer 2020: Research and Data Analysis Extern
   * UW-Madison Department of Economics
-  * Duties included: 
-        * Completed online training + collaborated with mentor
-        * Performed web scraping & Created data visualization with Python and Excel
-        * Presented on findings of Covid’s impact on consumer & retail trends in NYC
+  * Duties included: Completed online training + collaborated with mentor ; Performed web scraping & Created data visualization with Python and Excel ; Presented on findings of Covid’s impact on consumer & retail trends in NYC
 
 * Summer 2020: Research Extern
   * Ernst and Young 
