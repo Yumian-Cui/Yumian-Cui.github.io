@@ -9,3 +9,8 @@ tags:
 ---
 
 Take some time to reorganize my understanding towards `p-value`  and keep a note here, in case I can't think straight at some point in the future. 
+
+I cannot shwuwu sjsjsnxnsxs
+uiqiqisjxnsjxsjx
+jjxixiosixx
+jxajxis
