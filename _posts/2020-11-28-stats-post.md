@@ -14,11 +14,11 @@ Take some time to refresh my understanding towards `p-value`  and keep a note he
 
 I feel this topic is rather important and worthy to dive into as 3 out of my 4 courses this semester have covered this concept. Yet having learned p-value and hypothesis testing on my AP course early since high school and my college introductory stats course, it always remains a bit foggy. Thus, in case I can't think straight at some point in the future, it would be good to review for consolidataion of understanding. 
 
-**What does it actually mean to reject the null?
+**What does it actually mean to reject the null?**
 
 Rejecting null doesn't mean it's true, it just means we fail to prove it's false. H0 and H1 are not the opposites. It's not like one way or the other. Assume null is true, there has happend a low probability event. It seems too rare to happen but if it does happen, then it's reasonable to suspect the validity of the null. 
 
-**Hypothesis testing
+**Hypothesis testing**
 
 According to Wooldrige's textbook: there're two approaches. 
 * Classical: compare critical value with test statistic, if test statistic > critical value, then reject, because we get a sufficiently large value compared to the null. 
