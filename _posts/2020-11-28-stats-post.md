@@ -12,7 +12,7 @@ Take some time to refresh my understanding towards `p-value`  and keep a note he
 
 -----
 
-I feel this topic is rather important and worthy to dive into as 3 out of my 4 courses this semester have covered this concept. Yet having learned p-value and hypothesis testing on my AP course early since high school and my college introductory stats course, it always remains a bit foggy. Thus, in case I can't think straight at some point in the future, it would be good to review for consolidataion of understanding. 
+I feel this topic is rather important and worthy to dive into as 3 out of my 4 courses this semester have covered this concept. Yet having learned p-value and hypothesis testing on my AP course early since high school and my college introductory stats course, it always remains a bit foggy. Thus, it would be good to review for learning consolidation and future reference. 
 
 **What does it actually mean to reject the null?**
 
