@@ -5,4 +5,4 @@ collection: portfolio
 ---
 
 htihoh
-[portfolio-white-paper](https://github.com/Yumian-Cui/Yumian-Cui.github.io/files/EconEx-white-paper.pdf)
+[portfolio-white-paper](/files/EconEx-white-paper.pdf)
