@@ -6,3 +6,4 @@ collection: portfolio
 
 
 [portfolio-white-paper](https://github.com/Yumian-Cui/Yumian-Cui.github.io/blob/master/files/EconEx-white-paper.pdf)
+[portfolio-white-paper](https://github.com/Yumian-Cui/Yumian-Cui.github.io/blob/master/files/EconEx-white-paper.pdf)
