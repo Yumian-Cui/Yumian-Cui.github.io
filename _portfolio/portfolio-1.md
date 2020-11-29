@@ -4,8 +4,8 @@ title: "Summer EconEX project"
 excerpt: "Analysis on Covid's situation at NYC via Python"
 collection: portfolio
 redirect_from: 
-  - /_porfolio/
+  - /files/
 ---
 
 
-[portfolio-white-paper](_portfolio/EconEx-white-paper.pdf)
+[portfolio-white-paper](files/EconEx-white-paper.pdf)
