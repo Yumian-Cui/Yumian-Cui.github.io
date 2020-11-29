@@ -1,6 +1,6 @@
 ---
 title: "2020 Data challenge"
-excerpt: "Collaborated with Shaonan Wang"
+excerpt: "Heart failure prediction project collaborated with Shaonan Wang"
 collection: portfolio
 ---
 
