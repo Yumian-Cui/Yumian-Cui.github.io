@@ -1,6 +1,6 @@
 ---
 title: "Telco customer churn prediction"
-excerpt: "logistic regression + Random Forest on classfication"
+excerpt: "Logistic Regression + Random Forest on classfication"
 collection: portfolio
 ---
 
