@@ -5,4 +5,4 @@ collection: portfolio
 ---
 
 
-[portfolio-white-paper](https://github.com/Yumian-Cui/Yumian-Cui.github.io/_portfolio/EconEx white paper.pdf)
+[portfolio-white-paper](https://github.com/Yumian-Cui/Yumian-Cui.github.io/_portfolio/EconEx-white-paper.pdf)
