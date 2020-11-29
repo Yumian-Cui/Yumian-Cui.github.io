@@ -6,4 +6,7 @@ collection: portfolio
 
 done with Colab 
 
-[view work](https://github.com/Yumian-Cui/model-prediction/blob/main/DataChallenge_code_Final.ipynb)
+[view work in github](https://github.com/Yumian-Cui/model-prediction/blob/main/DataChallenge_code_Final.ipynb)
+
+[report](https://yumian-cui.github.io/files/Data_Challenge_Report.pdf)
+
