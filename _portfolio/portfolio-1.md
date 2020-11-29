@@ -1,6 +1,6 @@
 ---
 title: "Summer EconEX project"
-excerpt: "Analysis on Covid's situation at NYC via Python"
+excerpt: "Analysis on Covid's situation in NYC via Python"
 collection: portfolio
 ---
 
