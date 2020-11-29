@@ -6,4 +6,4 @@ collection: portfolio
 ---
 
 
-[portfolio-white-paper](EconEx-white-paper.pdf)
+[portfolio-white-paper](_portfolio/EconEx-white-paper.pdf)
