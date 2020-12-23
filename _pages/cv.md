@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Read more here](files/YCM_resume_pdf.pdf)
+
 Education
 ======
 * B.S. in Econ and DS, University of Wisconsin-Madison, 2022 (Expected)
