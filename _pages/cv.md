@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Read more here](https://yumian-cui.github.io/files/YCM_resume_pdf.pdf)
+[Read more here](https://yumian-cui.github.io/files/)
 
 Education
 ======
